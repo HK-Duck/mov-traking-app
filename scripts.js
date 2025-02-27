@@ -17,3 +17,5 @@ personalMovieDB.movies[a] = b;
 personalMovieDB.movies[c] = d;
 
 console.log(personalMovieDB);
+//день 1 создание приложения
+//Проблема 1: не работает через лайвсервер: окно не появляется; открывается сам файл
