@@ -1,3 +1,5 @@
+"use strict";
+
 const number0fFilms = +promt('Сколько фильмов вы уже посмотрели?', '');
 
 const personalMovieDB = {
